@@ -82,6 +82,12 @@ O objetivo foi transformar dados brutos em insights estratégicos e em um modelo
 
 ---
 
+## Observação sobre o modelo salvo
+
+O modelo Random Forest foi salvo localmente como `modelo_random_forest_sleep_quality.pkl`.
+
+Devido a limitações de tamanho do GitHub para arquivos binários, o modelo não foi incluído neste repositório. Ele pode ser regenerado executando o notebook completo.
+
 ## Conclusão
 
 O projeto demonstra a capacidade de conduzir uma análise completa, desde exploração de dados até modelagem preditiva e geração de recomendações estratégicas para o negócio.
